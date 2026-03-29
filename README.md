@@ -25,3 +25,5 @@ Tinkercad Simulation
 
 # View here documentation:
 https://github.com/akuafrema/Microprocessors-Project-Work-2026/blob/main/docs/coe_group25_smart_sanitizer.pdf
+
+docs/coe_group25_smart_sanitizer.pdf
