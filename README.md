@@ -21,6 +21,7 @@ This repository contains project implementations for the lab sessions. Each proj
 
 *Edit
 Tinkercad Simulation
-View here: https://www.tinkercad.com/things/dWuh81dZlb3-microp-project/editel?sharecode=7tqcM0ErM4SxRZRQcg2643MWEKaM0eOliVqDPFEeRlI
+# View here: https://www.tinkercad.com/things/dWuh81dZlb3-microp-project/editel?sharecode=7tqcM0ErM4SxRZRQcg2643MWEKaM0eOliVqDPFEeRlI
 
-
+# View here documentation:
+https://github.com/akuafrema/Microprocessors-Project-Work-2026/blob/main/docs/coe_group25_smart_sanitizer.pdf
