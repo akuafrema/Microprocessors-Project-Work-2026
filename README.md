@@ -18,3 +18,9 @@ This repository contains project implementations for the lab sessions. Each proj
 - Refer to the provided submission deadlines to stay on track.  
 
 📌 **Submission Deadline:** March 29, 2026 
+
+*Edit
+Tinkercad Simulation
+View here: https://www.tinkercad.com/things/dWuh81dZlb3-microp-project/editel?sharecode=7tqcM0ErM4SxRZRQcg2643MWEKaM0eOliVqDPFEeRlI
+
+
